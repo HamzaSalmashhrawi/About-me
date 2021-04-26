@@ -1,0 +1,27 @@
+h1 {
+    text-align: center;
+    background-color: rgb(188, 159, 216);
+}
+nav ul li {
+    display: inline;
+    margin: 165px;
+}
+
+nav ul li a {
+    text-decoration: none;
+}
+body main img {
+    width: 200px;
+    border-radius: 50%;
+ }
+body {
+    background-image: url(https://www.adobe.com/express/create/media_1ff27df8a32848f6ca9d248c89fbd476c339135bc.png?width=2000&format=webply&optimize=medium);
+}
+body main p {
+    padding: 50px;
+    text-align: center;
+    font-size: 18px;
+}
+body footer {
+    text-align: center;
+}
