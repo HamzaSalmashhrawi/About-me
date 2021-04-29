@@ -1,10 +1,21 @@
+
+    
+
 h1 {
+    
+    color: white;
+    font-weight: bold;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 25px;
     text-align: center;
-    background-color: rgb(188, 159, 216);
+    padding: 20px;
+    border-radius: 25%;
+    background-color: rgb(158, 201, 221);
 }
+
 nav ul li {
     display: inline;
-    margin: 165px;
+    margin: 175px;
 }
 
 nav ul li a {
@@ -27,10 +38,10 @@ body footer {
     text-align: center;
 }
 
-ol {
+ol li {
     font-family: cursive;
     font-size: 16px;
-    padding: 20px;
+    padding: 3px;
 } 
 
 ul {
@@ -38,3 +49,44 @@ ul {
     font-family: cursive;
     font-size: 16px;
 }
+
+
+ #one {   background-color: #eeeeee;
+    color: #666666;
+    text-shadow: 1px 1px 0px #000000;}
+    #two {
+    background-color: #dddddd;
+    color: #666666;
+    text-shadow: 1px 1px 3px #666666;}
+    #three {
+    background-color: #cccccc;
+    color: #ffffff;
+    text-shadow: 2px 2px 7px #111111;}
+    #four {
+    background-color: #bbbbbb;
+    color: #cccccc;
+    text-shadow: -1px -2px #666666;}
+    #five {
+    background-color: #aaaaaa;
+    color: #ffffff;
+    text-shadow: -1px -1px #666666;}
+    #six {   background-color: #eeeeee;
+        color: #666666;
+        text-shadow: 1px 1px 0px #000000;}
+        #seven {
+        background-color: #dddddd;
+        color: #666666;
+        text-shadow: 1px 1px 3px #666666;}
+        #eight {
+        background-color: #cccccc;
+        color: #ffffff;
+        text-shadow: 2px 2px 7px #111111;}
+        #nine {
+        background-color: #bbbbbb;
+        color: #cccccc;
+        text-shadow: -1px -2px #666666;}
+        #ten {
+        background-color: #aaaaaa;
+        color: #ffffff;
+        text-shadow: -1px -1px #666666;}
+        
